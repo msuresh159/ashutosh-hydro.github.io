@@ -92,6 +92,12 @@ Publications
 1. Ashutosh Sharma and Manish Kumar Goyal (2016) “A comparison of three soft computing techniques, Bayesian regression, support vector regression, and wavelet regression, for monthly rainfall forecast.” Journal of Intelligent Systems, De Gruyter. DOI: 10.1515/jisys-2016-0065. <br/>
 1. Ashutosh Sharma and Manish Kumar Goyal (2016) "Bayesian network for monthly rainfall forecast: a comparison of K2 and MCMC algorithm." International Journal of Computers and Applications, Taylor and Francis, 38(4): 199-206. DOI: 10.1080/1206212X.2016.1237131
 
+Book chapters
+======
+1. Manish Kumar Goyal, Ashutosh Sharma, and Rao Y. Surampalli (2020) ”Remote Sensing and GIS Applications in Sustainability”, Chapter 28 in Sustainability : Fundamentals and Applications. Edited by : R. Y. Surampalli, T. C. Zhang, M. K. Goyal, S. K. Brar and R. D. Tyagi. 
+1. Ashutosh Sharma, Manish Kumar Goyal and Deepak Jhajharia (2017) “Application of machine learning techniques in drought forecast”, Chapter 20 in Sustainable Holistic Water Resources Management in a Changing Climate, Pages 351-365, M/S Jain Brothers, New Delhi, Edited by : K. S. Raju and A. Vasan
+1. Manish Kumar Goyal and Ashutosh Sharma (2017) “Regionalization of drought prediction”, Chapter 15 in Handbook of Drought and Water Scarcity : Principles of Drought and Water Scarcity. Vol. 1, 253–278, Taylor and Francis, Edited by S. Eslamian and F. A. Eslamian. 
+
 A data-driven personal website
 ======
 
