@@ -20,7 +20,7 @@ Research Interests
 
 Education
 ======
-**PhD** in Hydroclimatology
+**PhD** in Hydroclimatology \
 Department of Civil Engineering, 
 Indian Institute of Technology (IIT) Guwahati, India
 Supervisors: Prof. Arup Kumar Sarma and Dr. Manish Kumar Goyal
