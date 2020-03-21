@@ -41,34 +41,34 @@ Research Experience
 ======
 **Pennsylvania State University** <br/>
 Postdoctoral Scholar <br/>
-Jan 2020 to Present <br/>
+*Jan 2020 to Present* <br/>
 Project: [Predictive Risk Investigation SysteM (PRISM) for Multi-layer Dynamic Interconnection Analysis](https://sites.google.com/view/prism-prj) <br/>
 Advisor: [Dr. Chaopeng Shen](http://water.engr.psu.edu/shen/)
 
 **University of Nebraska Lincoln** <br/>
 Visiting Researcher <br/>
-Aug 2018 to Dec 2018 <br/>
+*Aug 2018 to Dec 2018* <br/>
 Indo-US Science Technology Forum (IUSSTF) sponsored Water Advanced Research Innovation (WARI) program 
 
 **McGill University**
 Graduate Research Trainee <br/>
-Mar 2018 to June 2018 <br/>
+*Mar 2018 to June 2018* <br/>
 Shastri Indo Canadian Institute (SICI) sponsored Shatri Research Student Fellowship program <br/>
 
 Awards and Recognition
 ======
 **Competitive Fellowships** <br/>
-2018 – Shastri Indo-Canadian Institute Fellowship (Canada) – Doctoral Student Category <br/>
-2018 – Water Advanced Research and Innovation (WARI) Fellowship Program (USA) – Doctoral Student Category <br/>
-2015 – Future Civil Fellowship - Study Tour for Elite Students to Department of Civil and Environmental Engineering, Hong Kong University of Science and Technology (HKUST)
+*2018* – Shastri Indo-Canadian Institute Fellowship (Canada) – Doctoral Student Category <br/>
+*2018* – Water Advanced Research and Innovation (WARI) Fellowship Program (USA) – Doctoral Student Category <br/>
+*2015* – Future Civil Fellowship - Study Tour for Elite Students to Department of Civil and Environmental Engineering, Hong Kong University of Science and Technology (HKUST)
 
 **Scholarships** <br/>
-2016 to 2019 – Ministry of Human Resource Development (MHRD), Government of India fellowship for PhD program. <br/>
-2014 to 2016 – Ministry of Human Resource Development (MHRD), Government of India fellowship for two years during Master of Technology (M Tech) program. <br/>
-2014 & 2016 – Two  times recipient of ‘Mukhya Mantri Protsahan Yojna’ scholarship from the Government of Himachal Pradesh for M. Tech in 2014 and PhD in 2016. <br/>
+*2016 to 2019* – IIT Guwahati institute fellowship for PhD program. <br/>
+*2014 to 2016* – Ministry of Human Resource Development (MHRD), Government of India fellowship for two years during Master of Technology (M Tech) program. <br/>
+*2014 & 2016* – Two  times recipient of ‘Mukhya Mantri Protsahan Yojna’ scholarship from the Government of Himachal Pradesh for M. Tech in 2014 and PhD in 2016. <br/>
 
 **Presentations** <br/>
-2018 – Outstanding poster award: Midwest  Big Data Hub (MBDH) Digital Agriculture Community workshop at University of Nebraska-Lincoln, US. 
+*2018* – Outstanding poster award: Midwest  Big Data Hub (MBDH) Digital Agriculture Community workshop at University of Nebraska-Lincoln, US. 
 
 **Media highlights of the work (selected)** <br/>
 TheHindu: [“Only 32% of India is resilient to drought”](https://www.thehindu.com/sci-tech/science/only-32-of-india-is-resilient-to-drought/article25295441.ece?fbclid=IwAR0G6Qo5ggiifzmgFjOAI6mBzAep_1bp6sZZj6vDaZwA8tOi7faU2R55WAE) on 23 Oct, 2018 <br/>
@@ -79,19 +79,20 @@ TheHindu–Businessline: [“Most river basins in India not climate resilient: S
 Publications
 ======
 **Accepted/Published Journal Articles** <br/>
-1. Ashutosh Sharma and Manish Kumar Goyal (2019) “Assessment of the Changes in Precipitation and Temperature in Teesta River Basin in Indian Himalayan Region under Climate Change”, Atmospheric Research, 231, 104670. (IF : 4.114) <br/>
-1. Ashutosh Sharma and Manish Kumar Goyal (2018) “District-level assessment of the ecohydrological resilience to hydroclimatic disturbances and its controlling factors in India” Journal of Hydrology, Elsevier, 564, 1048–1057. (IF: 3.727) <br/>
-1. Ashutosh Sharma and Manish Kumar Goyal. (2018) “Assessment of ecosystem resilience to hydroclimatic disturbances in India” Global Change Biology, 24(2), e432–e441. (IF: 8.997) <br/>
-1. Manas Khan, Ashutosh Sharma and Manish Kumar Goyal (2019) “Assessment of future water provisioning and sediment load under climate and LULC change scenarios in a peninsular river basin, India” Hydrological Sciences Journal, DOI: 10.1080/02626667.2019.1584401. (IF: 2.061) <br/>
-1. Jhilam Sinha, Ashutosh Sharma, Manas Khan, and Manish Kumar Goyal. (2018) “Assessment of the impacts of climatic variability and anthropogenic stress on hydrologic resilience to warming shifts in Peninsular India” Scientific Reports, 8(1), 1383. (IF: 4.122 <br/>
-1. Manish Kumar Goyal, Venkatesh Panchariya, Ashutosh Sharma, and Vishal Singh (2018) “Comparative assessment of SWAT model performance in two distinct catchments under various DEM scenarios of varying resolution, sources and resampling methods” Water Resources Management, 32(2), 805–825. (IF: 2.644) <br/>
-1. Manish Kumar Goyal, Ashutosh Sharma, Konstantinos Katsifarakis (2017) “Prediction of flow rate of Karstic springs using Support Vector Machines”, Hydrological Sciences Journal, 62(13), 2175-2186.  (IF: 2.061) <br/>
-1. Vishal Singh, Ashutosh Sharma and Manish Kumar Goyal (2017) “Projection of hydro-climatological changes over eastern Himalayan catchment by the evaluation of RegCM4 RCM and CMIP5 GCM models”. Hydrology Research, International Water Association Publishing. DOI: 10.2166/nh.2017.193 (IF: 1.801)<br/>
-1. Manish Kumar Goyal and Ashutosh Sharma (2017) “Wavelet transform based trend analysis for drought variability over 566 stations in India”, European Water, Issue: 60, Pages: 247–253, European Water Resources Association. <br/>
-1. Manish Kumar Goyal and Ashutosh Sharma (2016) “A Fuzzy c-Means approach regionalization for analysis of meteorological drought homogeneous regions in Western India.” Natural Hazards, Springer, 84: 1831:1847. DOI: 10.1007/s11069-016-2520-9. (IF: 1.833) <br/>
-1. Ashutosh Sharma and Manish Kumar Goyal (2016) “A comparison of three soft computing techniques, Bayesian regression, support vector regression, and wavelet regression, for monthly rainfall forecast.” Journal of Intelligent Systems, De Gruyter. DOI: 10.1515/jisys-2016-0065. <br/>
-1. Ashutosh Sharma and Manish Kumar Goyal (2016) "Bayesian network for monthly rainfall forecast: a comparison of K2 and MCMC algorithm." International Journal of Computers and Applications, Taylor and Francis, 38(4): 199-206. DOI: 10.1080/1206212X.2016.1237131
-
+1. Ashutosh Sharma and Manish Kumar Goyal (2020) "Assessment of Drought Trend and Variability in India using Wavelet
+Transform”, *Hydrological Sciences Journal* [Accepted]
+1. Ashutosh Sharma and Manish Kumar Goyal (2019) [“Assessment of the Changes in Precipitation and Temperature in Teesta River Basin in Indian Himalayan Region under Climate Change”](https://www.sciencedirect.com/science/article/pii/S0169809519307616?via%3Dihub), *Atmospheric Research*, 231, 104670. <br/>
+1. Srinidhi Jha, Jew Das, Ashutosh Sharma, Budhaditya Hazra and Manish Kumar Goyal (2019) [“Probabilistic evaluation of vegetation drought likelihood and its implications to resilience across India”](https://www.sciencedirect.com/science/article/pii/S0921818118305496), *Global and Planetary Change*, 176, 23-35.
+1. Ashutosh Sharma and Manish Kumar Goyal (2018) [“District-level assessment of the ecohydrological resilience to hydroclimatic disturbances and its controlling factors in India”](https://www.sciencedirect.com/science/article/pii/S0022169418305936/), *Journal of Hydrology*, 564, 1048–1057. <br/>
+1. Ashutosh Sharma and Manish Kumar Goyal. (2018) [“Assessment of ecosystem resilience to hydroclimatic disturbances in India”](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.13874), *Global Change Biology*, 24(2), e432–e441. <br/>
+1. Manas Khan, Ashutosh Sharma and Manish Kumar Goyal (2019) [“Assessment of future water provisioning and sediment load under climate and LULC change scenarios in a peninsular river basin, India”](https://www.tandfonline.com/doi/full/10.1080/02626667.2019.1584401), *Hydrological Sciences Journal*, 64(4), 405-419. <br/>
+1. Jhilam Sinha, Ashutosh Sharma, Manas Khan, and Manish Kumar Goyal (2018) [“Assessment of the impacts of climatic variability and anthropogenic stress on hydrologic resilience to warming shifts in Peninsular India”](https://www.nature.com/articles/s41598-018-32091-0), *Scientific Reports*, 8(1), 1383. <br/>
+1. Manish Kumar Goyal, Venkatesh Panchariya, Ashutosh Sharma, and Vishal Singh (2018) [“Comparative assessment of SWAT model performance in two distinct catchments under various DEM scenarios of varying resolution, sources and resampling methods”](https://link.springer.com/article/10.1007/s11269-017-1840-1), *Water Resources Management*, 32(2), 805–825. <br/>
+1. Manish Kumar Goyal, Ashutosh Sharma, Konstantinos Katsifarakis (2017) [“Prediction of flow rate of Karstic springs using Support Vector Machines”](http://www.tandfonline.com/doi/full/10.1080/02626667.2017.1371847), *Hydrological Sciences Journal*, 62(13), 2175-2186.   <br/>
+1. Vishal Singh, Ashutosh Sharma and Manish Kumar Goyal (2017) [“Projection of hydro-climatological changes over eastern Himalayan catchment by the evaluation of RegCM4 RCM and CMIP5 GCM models”](https://iwaponline.com/hr/article-abstract/doi/10.2166/nh.2017.193/38820/Projection-of-hydro-climatological-changes-over?redirectedFrom=fulltext), *Hydrology Research*, 50(1), 117-137. <br/>
+1. Manish Kumar Goyal and Ashutosh Sharma (2016) [“A Fuzzy c-Means approach regionalization for analysis of meteorological drought homogeneous regions in Western India”](https://link.springer.com/article/10.1007/s11069-016-2520-9), *Natural Hazards*, 84: 1831:1847. <br/>
+1. Ashutosh Sharma and Manish Kumar Goyal (2016) [“A comparison of three soft computing techniques, Bayesian regression, support vector regression, and wavelet regression, for monthly rainfall forecast”](https://www.degruyter.com/view/j/jisys.ahead-of-print/jisys-2016-0065/jisys-2016-0065.xml), *Journal of Intelligent Systems*, De Gruyter, DOI: 10.1515/jisys-2016-0065. <br/>
+1. Ashutosh Sharma and Manish Kumar Goyal (2016) ["Bayesian network for monthly rainfall forecast: a comparison of K2 and MCMC algorithm"](https://www.tandfonline.com/doi/abs/10.1080/1206212X.2016.1237131), *International Journal of Computers and Applications*, Taylor and Francis, 38(4), 199-206. 
 **Book chapters**
 1. Manish Kumar Goyal, Ashutosh Sharma, and Rao Y. Surampalli (2020) ”Remote Sensing and GIS Applications in Sustainability”, Chapter 28 in Sustainability : Fundamentals and Applications. Edited by : R. Y. Surampalli, T. C. Zhang, M. K. Goyal, S. K. Brar and R. D. Tyagi. 
 1. Ashutosh Sharma, Manish Kumar Goyal and Deepak Jhajharia (2017) “Application of machine learning techniques in drought forecast”, Chapter 20 in Sustainable Holistic Water Resources Management in a Changing Climate, Pages 351-365, M/S Jain Brothers, New Delhi, Edited by : K. S. Raju and A. Vasan
