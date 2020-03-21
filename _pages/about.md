@@ -14,6 +14,7 @@ I have a B Tech degree in Civil Engineering from NIT Hamirpur and a M Tech degre
 
 Research Interests 
 ======
+* Trans-domain interconnected risk assessment
 * Eco-hydrological resilience analysis 
 * Hydrological modelling
 * Climate change impact assessment
