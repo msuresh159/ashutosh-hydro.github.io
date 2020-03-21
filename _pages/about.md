@@ -21,21 +21,20 @@ Research Interests
 Education
 ======
 **PhD** in Hydroclimatology \
-Department of Civil Engineering, 
-Indian Institute of Technology (IIT) Guwahati, India
-Supervisors: Prof. Arup Kumar Sarma and Dr. Manish Kumar Goyal
+Department of Civil Engineering\ 
+Indian Institute of Technology (IIT) Guwahati, India \
+Supervisors: Prof. Arup Kumar Sarma and Dr. Manish Kumar Goyal \
 Dissertation title: Assessment of the resilience of Indian river basins to droughts under climate change scenarios
 
-**M Tech (Master of Technology)**
-Department of Civil Engineering
-Indian Institute of Technology (IIT) Guwahati, India
-Supervisor: Dr. Manish Kumar Goyal
-Thesis title: Identification of homogeneous drought regions in western India and regional drought prediction.
+**M Tech (Master of Technology)** \
+Department of Civil Engineering\
+Indian Institute of Technology (IIT) Guwahati, India\
+Supervisor: Dr. Manish Kumar Goyal\
+Thesis title: Identification of homogeneous drought regions in western India and regional drought prediction.\
 
-**Bachelor of Technology (B Tech)**
-Department of Civil Engineering, 
-National Institute of Technology Hamirpur, India
-August 2010 to May 2014
+**Bachelor of Technology (B Tech)**\
+Department of Civil Engineering, \
+National Institute of Technology Hamirpur, India\
 
 
 A data-driven personal website
