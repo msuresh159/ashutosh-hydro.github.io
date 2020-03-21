@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 I am a Postdoctoral Scholar in the Department of Civil and Environmental Engineering, Pennsylvania State University. I have been working in the field of hydroclimatology for five years.
+
+I have a B Tech degree in Civil Engineering from NIT Hamirpur and a M Tech degree in Water Resources Engineering and Management from Department of Civil Engineering of IIT Guwahati. I obtained my PhD degree from IIT Guwahati on the topic ‘Assessment of the Resilience of Indian River Basins to Droughts under Climate Change Scenarios’. My thesis discussed a new method for spatiotemporal assessment of ecohydrological resilience and climatic extremes in India.
 
 Research Interests 
 ======
@@ -93,6 +95,7 @@ Transform”, *Hydrological Sciences Journal* [Accepted]
 1. Manish Kumar Goyal and Ashutosh Sharma (2016) [“A Fuzzy c-Means approach regionalization for analysis of meteorological drought homogeneous regions in Western India”](https://link.springer.com/article/10.1007/s11069-016-2520-9), *Natural Hazards*, 84: 1831:1847. <br/>
 1. Ashutosh Sharma and Manish Kumar Goyal (2016) [“A comparison of three soft computing techniques, Bayesian regression, support vector regression, and wavelet regression, for monthly rainfall forecast”](https://www.degruyter.com/view/j/jisys.ahead-of-print/jisys-2016-0065/jisys-2016-0065.xml), *Journal of Intelligent Systems*, De Gruyter, DOI: 10.1515/jisys-2016-0065. <br/>
 1. Ashutosh Sharma and Manish Kumar Goyal (2016) ["Bayesian network for monthly rainfall forecast: a comparison of K2 and MCMC algorithm"](https://www.tandfonline.com/doi/abs/10.1080/1206212X.2016.1237131), *International Journal of Computers and Applications*, Taylor and Francis, 38(4), 199-206. 
+
 **Book chapters**
 1. Manish Kumar Goyal, Ashutosh Sharma, and Rao Y. Surampalli (2020) ”Remote Sensing and GIS Applications in Sustainability”, Chapter 28 in Sustainability : Fundamentals and Applications. Edited by : R. Y. Surampalli, T. C. Zhang, M. K. Goyal, S. K. Brar and R. D. Tyagi. 
 1. Ashutosh Sharma, Manish Kumar Goyal and Deepak Jhajharia (2017) “Application of machine learning techniques in drought forecast”, Chapter 20 in Sustainable Holistic Water Resources Management in a Changing Climate, Pages 351-365, M/S Jain Brothers, New Delhi, Edited by : K. S. Raju and A. Vasan
