@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ashutosh Sharma"
-  avatar           : /images/Ashutosh%20Passport%20Picture.jpg
+  avatar           : (/images/Ashutosh%20Passport%20Picture.jpg)
   bio              : "Postdoctoral Scholar, Penn State University"
   location         : "University Park, PA, USA"
   employer         :
