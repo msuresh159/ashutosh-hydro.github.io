@@ -10,8 +10,33 @@ redirect_from:
 
 I am a Postdoctoral Scholar in the Department of Civil and Environmental Engineering, Pennsylvania State University. I have been working in the field of hydroclimatology for five years.
 
-A data-driven personal website
+Research Interests 
 ======
+- Eco-hydrological resilience analysis 
+- Hydrological modelling
+- Climate change impact assessment
+- Drought and rainfall prediction
+-  Applications of machine learning techniques in water resources 
+
+Education
+======
+**PhD** in Hydroclimatology
+Department of Civil Engineering, 
+Indian Institute of Technology (IIT) Guwahati, India
+Supervisors: Prof. Arup Kumar Sarma and Dr. Manish Kumar Goyal
+Dissertation title: Assessment of the resilience of Indian river basins to droughts under climate change scenarios
+
+**M Tech (Master of Technology)**
+Department of Civil Engineering
+Indian Institute of Technology (IIT) Guwahati, India
+Supervisor: Dr. Manish Kumar Goyal
+Thesis title: Identification of homogeneous drought regions in western India and regional drought prediction.
+
+**Bachelor of Technology (B Tech)**
+Department of Civil Engineering, 
+National Institute of Technology Hamirpur, India
+August 2010 to May 2014
+
 
 A data-driven personal website
 ======
