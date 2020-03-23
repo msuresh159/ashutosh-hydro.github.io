@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ashutosh Sharma"
-  avatar           : /images/images/Ashutosh_IITGP_Photo.jpg
+  avatar           : ![Ashutoh's Picture](/images/images/Ashutosh_IITGP_Photo.jpg)
   bio              : "Postdoctoral Scholar, Pennsylvania State University"
   location         : "University Park, PA, USA"
   employer         :
