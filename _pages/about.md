@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Scholar
-Department of Civil and Environmental Engineering, 
-Pennsylvania State University (PSU), University Park - 16802, PA, USA
+Postdoctoral Scholar <br /> 
+Department of Civil and Environmental Engineering, <br /> 
+Pennsylvania State University (PSU), University Park - 16802, PA, USA <br /> 
 
 ## About me
 
