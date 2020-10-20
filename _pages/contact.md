@@ -12,7 +12,7 @@ Contact information is below, including email and various web services for more 
 * Publons: [Ashutosh Sharma](https://publons.com/researcher/1418272/ashutosh-sharma/)
 * Google Scholar: [Ashutosh Sharma](https://scholar.google.co.in/citations?user=15sE22kAAAAJ&hl=en)
 
-Social Media
+### Social Media
 * Twitter: [ashutosh_hydro](http://twitter.com/ashutosh_hydro)
 * Facebook: [ashutosh.hydro](https://www.facebook.com/ashutosh.hydro)
-* Instagram: ashutosh_hydro](https://www.instagram.com/ashutosh_hydro/)
+* Instagram: [ashutosh_hydro](https://www.instagram.com/ashutosh_hydro/)
