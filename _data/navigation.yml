@@ -6,7 +6,8 @@ main:
     url: /academic_service/
   - title: "CV"
     url: /cv/
-
+  - title: "Contact"
+    url: /contact/
     
 
 
