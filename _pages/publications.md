@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Accepted/Published Journal Articles** <br/>
+## Accepted/Published Journal Articles 
 1. Ashutosh Sharma and Manish Kumar Goyal (2020) "Assessment of Drought Trend and Variability in India using Wavelet Transform”, *Hydrological Sciences Journal* [Accepted]
 1. Ashutosh Sharma and Manish Kumar Goyal (2019) [“Assessment of the Changes in Precipitation and Temperature in Teesta River Basin in Indian Himalayan Region under Climate Change”](https://www.sciencedirect.com/science/article/pii/S0169809519307616?via%3Dihub), *Atmospheric Research*, 231, 104670. <br/>
 1. Srinidhi Jha, Jew Das, Ashutosh Sharma, Budhaditya Hazra and Manish Kumar Goyal (2019) [“Probabilistic evaluation of vegetation drought likelihood and its implications to resilience across India”](https://www.sciencedirect.com/science/article/pii/S0921818118305496), *Global and Planetary Change*, 176, 23-35.
@@ -20,12 +20,12 @@ author_profile: true
 1. Ashutosh Sharma and Manish Kumar Goyal (2016) [“A comparison of three soft computing techniques, Bayesian regression, support vector regression, and wavelet regression, for monthly rainfall forecast”](https://www.degruyter.com/view/j/jisys.ahead-of-print/jisys-2016-0065/jisys-2016-0065.xml), *Journal of Intelligent Systems*, De Gruyter, DOI: 10.1515/jisys-2016-0065. <br/>
 1. Ashutosh Sharma and Manish Kumar Goyal (2016) ["Bayesian network for monthly rainfall forecast: a comparison of K2 and MCMC algorithm"](https://www.tandfonline.com/doi/abs/10.1080/1206212X.2016.1237131), *International Journal of Computers and Applications*, Taylor and Francis, 38(4), 199-206. 
 
-**Book chapters**
+## Book chapters
 1. Manish Kumar Goyal, Ashutosh Sharma, and Rao Y. Surampalli (2020) ”Remote Sensing and GIS Applications in Sustainability”, Chapter 28 in Sustainability : Fundamentals and Applications. Edited by : R. Y. Surampalli, T. C. Zhang, M. K. Goyal, S. K. Brar and R. D. Tyagi. 
 1. Ashutosh Sharma, Manish Kumar Goyal and Deepak Jhajharia (2017) “Application of machine learning techniques in drought forecast”, Chapter 20 in Sustainable Holistic Water Resources Management in a Changing Climate, Pages 351-365, M/S Jain Brothers, New Delhi, Edited by : K. S. Raju and A. Vasan
 1. Manish Kumar Goyal and Ashutosh Sharma (2017) “Regionalization of drought prediction”, Chapter 15 in Handbook of Drought and Water Scarcity : Principles of Drought and Water Scarcity. Vol. 1, 253–278, Taylor and Francis, Edited by S. Eslamian and F. A. Eslamian. 
 
-**Conferences**
+## Conferences
 1. Manish Kumar Goyal, Ashutosh Sharma (2017) “Wavelet transform based trend analysis for drought variability over 566 stations in India”.  10th World Congress on Water Resources and Environment (Panta Rhei), European Water Resources Association (EWRA), Athens, Greece, 5-9 July 2017.
 1. Manish Kumar Goyal, Ashutosh Sharma, Manas Khan (2017) “Assessment of the impact of changes in climate and land use/land cover on ecosystem services of a river watershed in Middle India”. Sixth International Conference on Environmental Management, Engineering, Planning and Economics (CEMEPE), Thessaloniki, Greece, June 25 to 30, 2017.
 1. Francisco Munoz-Arriola, Ashutosh Sharma, Katherine Werner, Juan-Carlos Chacon, Gerald Corzo, Manish-Kumar Goyal (2017) Hydrocentric view of Agro-ecosystem Resiliency to Extreme Hydrometeorological and Climate Events in the High Plains, US. In EGU General Assembly Conference Abstracts, vol. 19, p. 11865. 2017. 

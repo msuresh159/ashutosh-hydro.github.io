@@ -13,8 +13,7 @@ He has a B Tech (Bachelor of Technology) degree in Civil Engineering from NIT Ha
 
 Ashutosh has also worked at the University of Nebraska-Lincoln (UNL), USA and McGill University, Canada under Water Advanced Research and Innovation (WARI) and Shastri Indo-Canadian Institute (SICI) fellowships, respectively. He has authored thirteen journal papers and three book chapters on ecohydrological resilience analysis, hydrological modeling, and climate extremes.
 
-Research Interests 
-======
+## Research Interests 
 * Trans-domain interconnected risk assessment
 * Eco-hydrological resilience analysis 
 * Hydrological modelling
