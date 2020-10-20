@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## Served as peer review to following journals:
-
 * Water Resources Research, AGU
 * Journal of Hydrology, Elsevier
 * Climatic Changes, Springer
