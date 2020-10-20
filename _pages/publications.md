@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 **Accepted/Published Journal Articles** <br/>
-1. Ashutosh Sharma and Manish Kumar Goyal (2020) "Assessment of Drought Trend and Variability in India using Wavelet
-Transform”, *Hydrological Sciences Journal* [Accepted]
+1. Ashutosh Sharma and Manish Kumar Goyal (2020) "Assessment of Drought Trend and Variability in India using Wavelet Transform”, *Hydrological Sciences Journal* [Accepted]
 1. Ashutosh Sharma and Manish Kumar Goyal (2019) [“Assessment of the Changes in Precipitation and Temperature in Teesta River Basin in Indian Himalayan Region under Climate Change”](https://www.sciencedirect.com/science/article/pii/S0169809519307616?via%3Dihub), *Atmospheric Research*, 231, 104670. <br/>
 1. Srinidhi Jha, Jew Das, Ashutosh Sharma, Budhaditya Hazra and Manish Kumar Goyal (2019) [“Probabilistic evaluation of vegetation drought likelihood and its implications to resilience across India”](https://www.sciencedirect.com/science/article/pii/S0921818118305496), *Global and Planetary Change*, 176, 23-35.
 1. Ashutosh Sharma and Manish Kumar Goyal (2018) [“District-level assessment of the ecohydrological resilience to hydroclimatic disturbances and its controlling factors in India”](https://www.sciencedirect.com/science/article/pii/S0022169418305936/), *Journal of Hydrology*, 564, 1048–1057. <br/>
