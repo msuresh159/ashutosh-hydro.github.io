@@ -11,13 +11,13 @@ redirect_from:
 
 
 ## Education
-**PhD** in Hydroclimatology <br/>
+### PhD in Hydroclimatology
 Department of Civil Engineering <br/> 
 Indian Institute of Technology (IIT) Guwahati, India <br/>
 Supervisors: [Prof. Arup Kumar Sarma](http://www.iitg.ac.in/aks/homepage/index.html) and [Dr. Manish Kumar Goyal](https://sites.google.com/view/mkg1/home) <br/>
 Dissertation title: Assessment of the resilience of Indian river basins to droughts under climate change scenarios
 
-**M Tech (Master of Technology)** <br/>
+### M Tech (Master of Technology)
 Department of Civil Engineering <br/>
 Indian Institute of Technology (IIT) Guwahati, India <br/>
 Supervisor: [Dr. Manish Kumar Goyal](https://sites.google.com/view/mkg1/home) <br/>
