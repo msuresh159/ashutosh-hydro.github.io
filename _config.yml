@@ -14,7 +14,7 @@ description              : &description "Ashutosh Sharma's website"
 url                      : https://ashutosh-hydro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   :  "/images/Ashutosh.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "Ashutosh.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &ashutosh_hydro
+  username               : ashutosh_hydro
 facebook:
   username               : ashutosh.hydro
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ashutosh Sharma"
-  avatar           : 
+  avatar           : "Ashutosh.jpg"
   bio              : "Postdoctoral Scholar, Pennsylvania State University"
   location         : "University Park, PA, USA"
   employer         :
