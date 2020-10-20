@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Education
-======
+## Education
 **PhD** in Hydroclimatology <br/>
 Department of Civil Engineering <br/> 
 Indian Institute of Technology (IIT) Guwahati, India <br/>
@@ -29,8 +28,7 @@ Department of Civil Engineering, <br/>
 National Institute of Technology Hamirpur, India 
 
 
-Research Experience 
-======
+## Research Experience 
 **Pennsylvania State University** <br/>
 Postdoctoral Scholar <br/>
 *Jan 2020 to Present* <br/>
@@ -42,13 +40,12 @@ Visiting Researcher <br/>
 *Aug 2018 to Dec 2018* <br/>
 Indo-US Science Technology Forum (IUSSTF) sponsored Water Advanced Research Innovation (WARI) program 
 
-**McGill University**
+**McGill University** <br/>
 Graduate Research Trainee <br/>
 *Mar 2018 to June 2018* <br/>
 Shastri Indo Canadian Institute (SICI) sponsored Shatri Research Student Fellowship program <br/>
 
-Awards and Recognition
-======
+## Awards and Recognition
 **Competitive Fellowships** <br/>
 *2018* – Shastri Indo-Canadian Institute Fellowship (Canada) – Doctoral Student Category <br/>
 *2018* – Water Advanced Research and Innovation (WARI) Fellowship Program (USA) – Doctoral Student Category <br/>
@@ -67,8 +64,3 @@ TheHindu: [“Only 32% of India is resilient to drought”](https://www.thehindu
 HindustanTimes: [“60% districts in India cannot stand drought, says study”](https://www.hindustantimes.com/india-news/60-districts-in-india-cannot-stand-drought-says-study/story-UhNPCjLQQPaVcLSQpRiTiL.html) on 15 Aug, 2018. <br/>
 HindustanTimes: [“Only one of four river basins in India can support vegetation during a drought year: Study”](https://www.hindustantimes.com/mumbai-news/only-one-of-four-river-basins-in-india-can-support-vegetation-during-a-drought-year-study/story-otUxdqAc0XNqozTVCZ9FEI.html) on 02 Oct, 2017 <br/>
 TheHindu–Businessline: [“Most river basins in India not climate resilient: Study”](https://www.thehindubusinessline.com/news/science/most-river-basins-in-india-not-climate-resilient-study/article9876166.ece) on 27 Sep, 2017
-
-
-
-
-
