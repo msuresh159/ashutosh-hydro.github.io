@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+You can also find my articles on [my Google Scholar profile](https://scholar.google.co.in/citations?user=15se22kaaaaj&hl=en).
+
 ## Accepted/Published Journal Articles 
 
 1. Ashutosh Sharma and Manish Kumar Goyal (2020) [“Assessment of Drought Trend and Variability in India using Wavelet Transform”](https://www.tandfonline.com/doi/abs/10.1080/02626667.2020.1754422), *Hydrological Sciences Journal*, 65(9), 1539-1554. <br/>
