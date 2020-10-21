@@ -1,7 +1,7 @@
 ---
 title: "Ecosystem Resilience"
 layout: single-portfolio
-excerpt: "<img src='/images/research/ecosystem_resilience_basins.png.png' alt=''>"
+excerpt: "<img src='/images/research/ecosystem_resilience_basins.png' alt=''>"
 collection: research
 order_number: 40
 ---
