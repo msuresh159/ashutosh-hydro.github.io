@@ -3,7 +3,7 @@ title: "Ecosystem Resilience"
 layout: single-portfolio
 excerpt: "<img src='/images/research/ecosystem_resilience_basins.png' alt=''>"
 collection: research
-order_number: 40
+order_number: 10
 ---
 
 ## [Assessment of ecosystem resilience to hydroclimatic disturbances in India](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.13874)

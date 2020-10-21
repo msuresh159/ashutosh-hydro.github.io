@@ -3,7 +3,7 @@ title: "Ecosystem Resilience"
 layout: single-portfolio
 excerpt: "<img src='/images/research/ecosystem_resilience_joh.png' alt=''>"
 collection: research
-order_number: 50
+order_number: 20
 ---
 
 
