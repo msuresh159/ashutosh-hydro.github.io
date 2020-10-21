@@ -19,14 +19,6 @@ I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [NIT 
 
 I have also worked at the University of Nebraska-Lincoln (UNL), USA and McGill University, Canada under Water Advanced Research and Innovation (WARI) and Shastri Indo-Canadian Institute (SICI) fellowships, respectively. I have [published](https://ashutosh-hydro.github.io/publications/) thirteen journal papers and three book chapters on ecohydrological resilience analysis, hydrological modeling, and climate extremes.
 
-## My research interests are:
-
-* Trans-domain interconnected risk assessment
-* Eco-hydrological resilience analysis 
-* Hydrological modelling
-* Climate change impact assessment
-* Drought and rainfall prediction
-* Applications of machine learning techniques in water resources 
 
 
 
