@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /contact/
 title: "Contact details"
 excerpt: "Contact me"

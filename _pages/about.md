@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Ashutosh Sharma"
 author_profile: true
