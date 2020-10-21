@@ -2,7 +2,7 @@
 title: "Assessment of Drought Trend and Variability in India using Wavelet Transform"
 collection: publications
 permalink: /publication/paper13
-date: 2019
+date: 2019-01-01
 venue: 'Hydrological Sciences Journal'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.13874'
 citation: 'Sharma, A., & Goyal, M. K. (2020). Assessment of drought trend and variability in India using wavelet transform. Hydrological Sciences Journal, 1-16.'
