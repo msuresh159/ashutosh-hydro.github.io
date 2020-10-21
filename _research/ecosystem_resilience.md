@@ -1,5 +1,5 @@
 ---
-title: "Ecosystem Resilience"
+title: "Basin-scale Ecosystem Resilience"
 layout: single-portfolio
 excerpt: "<img src='/images/research/ecosystem_resilience_basins.png' alt=''>"
 collection: research
