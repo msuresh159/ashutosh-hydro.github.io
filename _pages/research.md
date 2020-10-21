@@ -24,6 +24,8 @@ how hydrologic risk to propagate to other domains such as ecology and agricultur
 
 ## Research Outputs
 
+<nbsp>
+
 {% include base_path %}
 
 {% assign ordered_pages = site.research | sort:"order_number" %}
