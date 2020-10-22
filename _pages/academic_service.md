@@ -9,14 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-## Served as peer review to following journals:
+## Served as peer reviewer to following journals:
 * Water Resources Research, AGU
 * Journal of Hydrology, Elsevier
 * Climatic Changes, Springer
 * Atmospheric Research, Elsevier
 * Theoretical and Applied Climatology, Springer
 * Water Resources Management, Springer
-* ISH Journal of Hydraulic Engineering
 * ASCE Journal of Hazardous, Toxic, and Radioactive Waste Management
+* Remote Sensing Applications: Society and Environment
+* Modeling Earth Systems and Environment
+* ISH Journal of Hydraulic Engineering
+
 
 

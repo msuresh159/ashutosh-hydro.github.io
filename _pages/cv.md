@@ -21,7 +21,7 @@ redirect_from:
 	* Indian Institute of Technology (IIT) Guwahati, India <br/>
 	* Supervisor: [Dr. Manish Kumar Goyal](https://sites.google.com/view/mkg1/home) <br/>
 	* Thesis title: Identification of homogeneous drought regions in western India and regional drought prediction.
-* **Bachelor of Technology (B Tech)** (2014)
+* **Bachelor of Technology (B Tech)** in Civil Engineering (2014)
 	* Department of Civil Engineering, <br/>
 	* National Institute of Technology Hamirpur, India 
 
