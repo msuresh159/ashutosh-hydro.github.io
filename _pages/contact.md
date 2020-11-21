@@ -8,10 +8,11 @@ author_profile: true
 Contact information is below, including email and various web services for more details about my work. 
 
 * E-mail: ashutosh.hydro [at] gmail.com
-* Web of Science ResearcherID: AAM-3049-2020
+* Web of Science ResearcherID: [AAM-3049-2020](https://publons.com/researcher/1418272/ashutosh-sharma/)
 * ResearchGate: [Ashutosh Sharma](https://www.researchgate.net/profile/Ashutosh_Sharma44)
 * Publons: [Ashutosh Sharma](https://publons.com/researcher/1418272/ashutosh-sharma/)
 * Google Scholar: [Ashutosh Sharma](https://scholar.google.co.in/citations?user=15sE22kAAAAJ&hl=en)
+* ORCID: [0000-0003-2613-2821](https://orcid.org/0000-0003-2613-2821)
 
 ## Social Media
 * Twitter: [ashutosh_hydro](http://twitter.com/ashutosh_hydro)
