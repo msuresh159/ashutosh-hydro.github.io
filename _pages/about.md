@@ -13,8 +13,6 @@ Department of Hydrology <br/>
 Indian Institute of Technology Roorkee <br/> 
 Roorkee - 247667, Uttarakhand, India <br/> 
 
-Department of Civil and Environmental Engineering, <br /> 
-Pennsylvania State University (PSU), University Park - 16802, PA, USA <br /> 
 
 ## About me
 
