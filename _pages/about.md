@@ -16,7 +16,7 @@ Roorkee - 247667, Uttarakhand, India <br/>
 
 ## About me
 
-Welcome! I am an Assistant Professor in the Department of Hydrology of  Indian Institute of Technology Roorkee. I am interested in interdisciplinary research and teaching to understand the hydroclimatological processes and their connections to the natural-human world. 
+Welcome! I am an Assistant Professor in the [Department of Hydrology](https://hy.iitr.ac.in/) of  [Indian Institute of Technology Roorkee](https://iitr.ac.in/). I am interested in interdisciplinary research and teaching to understand the hydroclimatological processes and their connections to the natural-human world. 
 
 I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [NIT Hamirpur](https://nith.ac.in/) and a M.Tech. (Master of Technology) degree in Water Resources Engineering and Management from [IIT Guwahati](https://iitg.ac.in/). During my Ph.D. at IIT Guwahati, I worked on a resilience-based approach to examine the response of terrestrial ecosystems to droughts.
 
