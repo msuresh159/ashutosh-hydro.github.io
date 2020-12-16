@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Scholar <br /> 
+Assistant Professor <br/> 
+Department of Hydrology <br/> 
+Indian Institute of Technology Roorkee <br/> 
+Roorkee - 247667, Uttarakhand, India <br/> 
+
 Department of Civil and Environmental Engineering, <br /> 
 Pennsylvania State University (PSU), University Park - 16802, PA, USA <br /> 
 
 ## About me
 
-Welcome! I am a Postdoctoral Scholar in the [Department of Civil and Environmental Engineering](https://www.cee.psu.edu/) of [Pennsylvania State University](https://www.psu.edu/). I am interested in interdisciplinary research and teaching to understand the hydroclimatological processes and their connections to the natural-human world. Currently, I am working on a project titled ‘Predictive Risk Investigation SysteM (PRISM) for Multi-layer Dynamic Interconnection Analysis’.
+Welcome! I am an Assistant Professor in the Department of Hydrology of  Indian Institute of Technology Roorkee. I am interested in interdisciplinary research and teaching to understand the hydroclimatological processes and their connections to the natural-human world. 
 
 I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [NIT Hamirpur](https://nith.ac.in/) and a M.Tech. (Master of Technology) degree in Water Resources Engineering and Management from [IIT Guwahati](https://iitg.ac.in/). During my Ph.D. at IIT Guwahati, I worked on a resilience-based approach to examine the response of terrestrial ecosystems to droughts.
 
