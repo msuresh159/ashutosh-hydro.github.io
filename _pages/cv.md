@@ -29,7 +29,7 @@ redirect_from:
 ## Research Experience 
 * **Pennsylvania State University** <br/>
 	* Postdoctoral Scholar <br/>
-	* *Jan 2020 to Present* <br/>
+	* *Jan 2020 to Oct 2020* <br/>
 	* Project: [Predictive Risk Investigation SysteM (PRISM) for Multi-layer Dynamic Interconnection Analysis](https://sites.google.com/view/prism-prj) <br/>
 	* Advisor: [Dr. Chaopeng Shen](http://water.engr.psu.edu/shen/)
 * **University of Nebraska Lincoln** <br/>
