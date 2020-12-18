@@ -13,6 +13,7 @@ Contact information is below, including email and various web services for more 
 * Publons: [Ashutosh Sharma](https://publons.com/researcher/1418272/ashutosh-sharma/)
 * Google Scholar: [Ashutosh Sharma](https://scholar.google.co.in/citations?user=15sE22kAAAAJ&hl=en)
 * ORCID: [0000-0003-2613-2821](https://orcid.org/0000-0003-2613-2821)
+* LinkedIn: [Ashutosh Sharma](https://www.linkedin.com/in/ashutoshhydro/)
 
 ## Social Media
 * Twitter: [ashutosh_hydro](http://twitter.com/ashutosh_hydro)
