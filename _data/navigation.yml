@@ -8,6 +8,8 @@ main:
     url: /academic_activity/
   - title: "CV"
     url: /cv/
+  - title: "Positions Available"
+    url: /positions/
   - title: "Contact"
     url: /contact/
     
