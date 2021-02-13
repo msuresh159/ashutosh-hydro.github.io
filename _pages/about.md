@@ -20,8 +20,7 @@ Welcome! I am an Assistant Professor in the [Department of Hydrology](https://hy
 
 I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [NIT Hamirpur](https://nith.ac.in/) and a M.Tech. (Master of Technology) degree in Water Resources Engineering and Management from [IIT Guwahati](https://iitg.ac.in/). During my Ph.D. at IIT Guwahati, I worked on a resilience-based approach to examine the response of terrestrial ecosystems to droughts. I worked at Penn State University as a postdoctoral scholar in [Multiscale Hydrologic Processes and Intelligence (MHPI) group](http://water.engr.psu.edu/shen/).  
 
-I have also worked at the University of Nebraska-Lincoln (UNL), USA and McGill University, Canada under Water Advanced Research and Innovation (WARI) and Shastri Indo-Canadian Institute (SICI) fellowships, respectively. I have [published](https://ashutosh-hydro.github.io/publications/) thirteen journal papers and three book chapters on ecohydrological resilience analysis, hydrological modeling, and climate extremes.
-
+I have also worked at the University of Nebraska-Lincoln (UNL), USA and McGill University, Canada under Water Advanced Research and Innovation (WARI) and Shastri Indo-Canadian Institute (SICI) fellowships, respectively. 
 
 
 
