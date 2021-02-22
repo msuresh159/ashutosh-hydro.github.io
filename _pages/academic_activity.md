@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+## Teaching:
+* Engineering Hydrology (HYN-102) - Spring Semester
+* Groundwater Systems Analysis (HYN-528) - Spring Semester
+
 ## Talks/Presentations:
 * "Resilience of Terrestrial Ecosystems to Droughts in India" during 5-day virtual training course on "Water security for resilience to deal with disasters and outbreaks", Organized by National Institute of Hydrology, Roorkee
 * "Assessment of ecosystem resilience to drought conditions in India" during Faculty Development Program, Oriental Institute of Science and Technology, Bhopal
