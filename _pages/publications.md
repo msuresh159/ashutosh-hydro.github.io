@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.co.in/citations?user=15sE22kAAAAJ&hl=en).
+You can also find updated list of my papers on [my Google Scholar profile](https://scholar.google.co.in/citations?user=15sE22kAAAAJ&hl=en).
 
 ## Journal Articles 
 
