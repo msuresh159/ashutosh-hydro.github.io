@@ -23,7 +23,7 @@ I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [NIT 
 I have also worked at the University of Nebraska-Lincoln (UNL), USA and McGill University, Canada under Water Advanced Research and Innovation (WARI) and Shastri Indo-Canadian Institute (SICI) fellowships, respectively. 
 
 
-Contact Info and Links:
+## Contact Info and Links:
 * E-mail: ashutosh.sharma@hy.iitr.ac.in
 * [My Department Webpage](https://hy.iitr.ac.in/~HY/Ashutosh_Sharma)
 * [Department of Hydrology Website](https://hy.iitr.ac.in/)

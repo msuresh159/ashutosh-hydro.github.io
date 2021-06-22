@@ -8,8 +8,8 @@ author_profile: true
 You can also find updated list of my papers on [my Google Scholar profile](https://scholar.google.co.in/citations?user=15sE22kAAAAJ&hl=en).
 
 ## Journal Articles 
-1. Dubey, S., Sharma, A., Panchariya, V. K., Goyal, M. K., Surampalli, R. Y., & Zhang, T. C. (2021). Regional sustainable development of renewable natural resources using Net Primary Productivity on a global scale. *Ecological Indicators*, 127, 107768.
-1. Ma, K., Feng, D., Lawson, K., Tsai, W. P., Liang, C., Huang, X., Sharma, A & Shen, C. (2021). Transferring Hydrologic Data Across Continents–Leveraging Data‐Rich Regions to Improve Hydrologic Prediction in Data-Sparse Regions. *Water Resources Research*, 57(5), e2020WR028600.
+1. Dubey, S., Sharma, A., Panchariya, V. K., Goyal, M. K., Surampalli, R. Y., & Zhang, T. C. (2021). ["Regional sustainable development of renewable natural resources using Net Primary Productivity on a global scale"](https://www.sciencedirect.com/science/article/pii/S1470160X21004337). *Ecological Indicators*, 127, 107768.
+1. Ma, K., Feng, D., Lawson, K., Tsai, W. P., Liang, C., Huang, X., Sharma, A & Shen, C. (2021). Transferring Hydrologic Data Across Continents–Leveraging Data-Rich Regions to Improve Hydrologic Prediction in Data-Sparse Regions. *Water Resources Research*, 57(5), e2020WR028600.
 1. Che-Castaldo, J. P., Cousin, R., Daryanto, S., Deng, G., Feng, M. L. E., Gupta, R. K., ... & Matteson, D. S. (2021). Critical Risk Indicators (CRIs) for the electric power grid: A survey and discussion of interconnected effects. *arXiv preprint* arXiv:2101.07771.
 1. Ashutosh Sharma and Manish Kumar Goyal (2020) [“Assessment of Drought Trend and Variability in India using Wavelet Transform”](https://www.tandfonline.com/doi/abs/10.1080/02626667.2020.1754422), *Hydrological Sciences Journal*, 65(9), 1539-1554. <br/>
 1. Ashutosh Sharma and Manish Kumar Goyal (2019) [“Assessment of the Changes in Precipitation and Temperature in Teesta River Basin in Indian Himalayan Region under Climate Change”](https://www.sciencedirect.com/science/article/pii/S0169809519307616?via%3Dihub), *Atmospheric Research*, 231, 104670. <br/>
