@@ -12,12 +12,16 @@ redirect_from:
 ## Teaching:
 * Engineering Hydrology (HYN-102) - Spring Semester
 * Groundwater Systems Analysis (HYN-528) - Spring Semester
+* Hydrological Data Collection, Processing and Analysis (HYN-538) - Autumn Semester
 
 ## Talks/Presentations:
 * "Resilience of Terrestrial Ecosystems to Droughts in India" during 5-day virtual training course on "Water security for resilience to deal with disasters and outbreaks", Organized by National Institute of Hydrology, Roorkee
 * "Assessment of ecosystem resilience to drought conditions in India" during Faculty Development Program, Oriental Institute of Science and Technology, Bhopal
 
-## Served as peer reviewer to following journals:
+## Peer reviewing
+
+Updated details can be found on (Publons profile)[https://publons.com/researcher/1418272/ashutosh-sharma/peer-review/]
+
 * Water Resources Research, AGU
 * Journal of Hydrology, Elsevier
 * Climatic Changes, Springer
@@ -28,6 +32,10 @@ redirect_from:
 * Remote Sensing Applications: Society and Environment
 * Modeling Earth Systems and Environment
 * ISH Journal of Hydraulic Engineering
+
+## Guest Editor
+
+Topic Guest Editor for (Hydroclimatic Variability and Terrestrial Ecosystems)[https://www.frontiersin.org/research-topics/25520/hydroclimatic-variability-and-terrestrial-ecosystems]
 
 
 
