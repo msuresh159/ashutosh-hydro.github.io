@@ -7,6 +7,7 @@ author_profile: true
 
 ## Inviting submissions for Special Issue on Hydroclimatic Variability and Terrestrial Ecosystems
 
+(https://www.frontiersin.org/research-topics/25520/hydroclimatic-variability-and-terrestrial-ecosystems)[https://www.frontiersin.org/research-topics/25520/hydroclimatic-variability-and-terrestrial-ecosystems]
 
 About Special Issue: 
 
@@ -15,4 +16,3 @@ Terrestrial ecosystems play an essential role in the regulation of the global ca
 This Research Topic aims to explore the effects of hydroclimatic variability on terrestrial ecosystems and ecosystem services. This Research Topic mainly focuses on interactions between hydroclimatic variability and terrestrial ecosystems functioning, assessment of freshwater ecosystem services, and impact of hydroclimatic disturbances on terrestrial ecosystem productivity and ecosystem services. Articles exploring the role of adaptation measures against increasing climatic variability for the sustainability of freshwater ecosystem services are also highly encouraged.
 
 
-https://www.frontiersin.org/research-topics/25520/hydroclimatic-variability-and-terrestrial-ecosystems
