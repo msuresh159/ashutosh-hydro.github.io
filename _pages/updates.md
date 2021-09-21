@@ -7,7 +7,7 @@ author_profile: true
 
 ## Inviting submissions for Special Issue on Hydroclimatic Variability and Terrestrial Ecosystems
 
-(https://www.frontiersin.org/research-topics/25520/hydroclimatic-variability-and-terrestrial-ecosystems)[https://www.frontiersin.org/research-topics/25520/hydroclimatic-variability-and-terrestrial-ecosystems]
+[https://www.frontiersin.org/research-topics/25520/hydroclimatic-variability-and-terrestrial-ecosystems](https://www.frontiersin.org/research-topics/25520/hydroclimatic-variability-and-terrestrial-ecosystems)
 
 ### About Special Issue: 
 

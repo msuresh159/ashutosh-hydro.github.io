@@ -20,7 +20,7 @@ redirect_from:
 
 ## Peer reviewing
 
-Updated details can be found on (Publons profile)[https://publons.com/researcher/1418272/ashutosh-sharma/peer-review/]
+Updated details can be found on [Publons profile](https://publons.com/researcher/1418272/ashutosh-sharma/peer-review/)
 
 * Water Resources Research, AGU
 * Journal of Hydrology, Elsevier
@@ -35,7 +35,7 @@ Updated details can be found on (Publons profile)[https://publons.com/researcher
 
 ## Guest Editor
 
-Topic Guest Editor for (Hydroclimatic Variability and Terrestrial Ecosystems)[https://www.frontiersin.org/research-topics/25520/hydroclimatic-variability-and-terrestrial-ecosystems]
+Topic Guest Editor for [Hydroclimatic Variability and Terrestrial Ecosystems](https://www.frontiersin.org/research-topics/25520/hydroclimatic-variability-and-terrestrial-ecosystems)
 
 
 
