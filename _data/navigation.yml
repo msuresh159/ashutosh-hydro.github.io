@@ -6,6 +6,8 @@ main:
     url: /publications/
   - title: "Academic Activities"
     url: /academic_activity/
+  - title: "Updates"
+    url: /updates/
   - title: "CV"
     url: /cv/
   - title: "Positions Available"
